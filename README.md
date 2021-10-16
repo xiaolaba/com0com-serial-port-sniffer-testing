@@ -8,6 +8,7 @@ https://github.com/xiaolaba/Curve_Tracer_testing/blob/main/README.md#crlf-redund
 ### used virtual com port driver win10 64bit, works
 reading,  
 http://com0com.sourceforge.net/  
+https://github.com/paulakg4/com0com  
 open source, com0com-3.0.0.0-i386-and-x64-signed.zip, https://sourceforge.net/projects/com0com/files/latest/download  
 commercial,  https://www.virtual-serial-port.org/  
 
