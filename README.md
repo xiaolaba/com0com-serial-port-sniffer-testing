@@ -27,7 +27,7 @@ commercial,  https://www.virtual-serial-port.org/
 10. run a.bat, will open SerialSniffer 
 11. goto folder test_python_crlf, run_py.bat, will open hostware for testing  
 12. look at the serial port and screen output, something like this 
- ![SerialSniffer_test_done.JPG](SerialSniffer_test_done.JPG)  
+ ![SerialSniffer_test_done1.JPG](SerialSniffer_test_done1.JPG)  
 13. job done, Serialsniffer is working flawnessly
 
 
