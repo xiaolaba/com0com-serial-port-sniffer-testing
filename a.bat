@@ -1,0 +1,1 @@
+SerialSniffer -rx COM8 -tx COM14 -baud 1000000 -output sniffed.txt
