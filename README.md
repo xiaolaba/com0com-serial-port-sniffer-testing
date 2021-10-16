@@ -13,6 +13,10 @@ open source, com0com-3.0.0.0-i386-and-x64-signed.zip, https://sourceforge.net/pr
 commercial,  https://www.virtual-serial-port.org/  
 
 
+### sohaware
+software and hardware setup, aka so-ha-ware, sohawre     
+![crlf_debugger.JPG](crlf_debugger.JPG)  
+
 ### testing and code
 1. install com0com-3.0.0.0-i386-and-x64-signed.zip
 2. setup com0com0  
