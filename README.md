@@ -37,8 +37,8 @@ software and hardware setup, aka so-ha-ware, sohawre
 
 
 ### conclusion
-previously used UART logger has bug but commercial product of which no fix yet.
-
+previously used UART sniffer/logger has bug but commercial product of which no fix yet.
+![reduntant_CRLF.JPG](reduntant_CRLF.JPG)  
 
 
 reading, reference,  
